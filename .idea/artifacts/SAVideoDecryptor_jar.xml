@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SAVideoDecryptor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SAVideoDecryptor_jar</output-path>
+    <root id="archive" name="SAVideoDecryptor.jar">
+      <element id="module-output" name="SAVideoDecryptor" />
+    </root>
+  </artifact>
+</component>
